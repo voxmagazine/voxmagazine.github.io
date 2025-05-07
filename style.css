@@ -112,20 +112,6 @@ footer {
 
 .imageHolder {
   width: 100%;
-  margin: 3rem auto;
-  padding: 3rem 0px;
-  border-bottom: 1px solid #eee;
-}
-
-.imageHolder img {
-  width: 100%;
-  max-width: 800px;
-  margin: auto;
-  display: block;
-}
-
-.imageHolder figcaption {
-  margin-top: 1rem;
 }
 
 @media (min-width: 655px) {
